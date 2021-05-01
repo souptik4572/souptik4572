@@ -9,3 +9,6 @@ I am a Computer Science Engineering Student, currently in my junior year with a 
 - 💬 Ask me about React, Redux
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to cook and eat 😁
+
+
+[![Souptik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souptik4572)](https://github.com/souptik/github-readme-stats)
