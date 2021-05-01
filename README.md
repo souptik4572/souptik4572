@@ -8,4 +8,4 @@ I am a Computer Science Engineering Student, currently in my junior year with a 
 - 🤔 I’m looking for help with competitive programming
 - 💬 Ask me about React, Redux
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to cook and eat 😄
+- ⚡ Fun fact: I like to cook and eat 😁
