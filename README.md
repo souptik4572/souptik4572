@@ -7,6 +7,5 @@ I am a Computer Science Engineering Student, currently in my junior year with a 
 - 👯 I’m looking to collaborate on backend technologies using NodeJS
 - 🤔 I’m looking for help with competitive programming
 - 💬 Ask me about React, Redux
-- 📫 How to reach me: 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I like to cook and eat 😄
