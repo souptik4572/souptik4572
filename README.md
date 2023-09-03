@@ -15,8 +15,6 @@ My technical skill set includes proficiency in languages such as C/C++, Python 3
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I like to cook and eat 😁
 
-
-🚀 My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=souptik4572&theme=dark)](https://git.io/streak-stats)
+[![🚀 My GitHub Stats](https://streak-stats.demolab.com/?user=souptik4572&theme=light)](https://git.io/streak-stats)
 
 [![Souptik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souptik4572)](https://github.com/souptik/github-readme-stats)
